@@ -45,14 +45,14 @@
     
     </summary>
     
-      <category term="Travel" scheme="http://qubiter.github.io/categories/Travel/"/>
+      <category term="Travel" scheme="http://qubiter.github.io//categories/Travel/"/>
     
     
-      <category term="中文" scheme="http://qubiter.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+      <category term="中文" scheme="http://qubiter.github.io//tags/%E4%B8%AD%E6%96%87/"/>
     
-      <category term="游记" scheme="http://qubiter.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
+      <category term="游记" scheme="http://qubiter.github.io//tags/%E6%B8%B8%E8%AE%B0/"/>
     
-      <category term="流水账" scheme="http://qubiter.github.io/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/"/>
+      <category term="流水账" scheme="http://qubiter.github.io//tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/"/>
     
   </entry>
   
@@ -91,12 +91,12 @@
     
     </summary>
     
-      <category term="Activities" scheme="http://qubiter.github.io/categories/Activities/"/>
+      <category term="Activities" scheme="http://qubiter.github.io//categories/Activities/"/>
     
     
-      <category term="中文" scheme="http://qubiter.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+      <category term="中文" scheme="http://qubiter.github.io//tags/%E4%B8%AD%E6%96%87/"/>
     
-      <category term="News" scheme="http://qubiter.github.io/tags/News/"/>
+      <category term="News" scheme="http://qubiter.github.io//tags/News/"/>
     
   </entry>
   
@@ -133,12 +133,12 @@
     
     </summary>
     
-      <category term="Activities" scheme="http://qubiter.github.io/categories/Activities/"/>
+      <category term="Activities" scheme="http://qubiter.github.io//categories/Activities/"/>
     
     
-      <category term="中文" scheme="http://qubiter.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+      <category term="中文" scheme="http://qubiter.github.io//tags/%E4%B8%AD%E6%96%87/"/>
     
-      <category term="News" scheme="http://qubiter.github.io/tags/News/"/>
+      <category term="News" scheme="http://qubiter.github.io//tags/News/"/>
     
   </entry>
   
@@ -178,9 +178,9 @@
     </summary>
     
     
-      <category term="中文" scheme="http://qubiter.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+      <category term="中文" scheme="http://qubiter.github.io//tags/%E4%B8%AD%E6%96%87/"/>
     
-      <category term="News" scheme="http://qubiter.github.io/tags/News/"/>
+      <category term="News" scheme="http://qubiter.github.io//tags/News/"/>
     
   </entry>
   
