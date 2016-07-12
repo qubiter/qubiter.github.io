@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://qubiter.github.io/about/index.html</loc>
+    <loc>http://qubiter.github.io/zh-Hans/2016-07-12/201607-ShanghaiTravel/</loc>
     
-    <lastmod>2016-07-08T17:02:13.060Z</lastmod>
+    <lastmod>2016-07-12T15:54:39.039Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://qubiter.github.io/zh-Hans/2016-07-07/news-20160707/</loc>
     
-    <lastmod>2016-07-08T16:46:42.331Z</lastmod>
+    <lastmod>2016-07-08T17:27:11.708Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qubiter.github.io/about/index.html</loc>
+    
+    <lastmod>2016-07-08T17:27:01.012Z</lastmod>
     
   </url>
   
